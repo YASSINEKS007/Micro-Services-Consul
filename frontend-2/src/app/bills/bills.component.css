@@ -1,0 +1,34 @@
+.full-width-table {
+  width: 100%;
+}
+
+.centered {
+  text-align: center;
+  justify-content: center;
+}
+
+.mat-header-cell, .mat-cell {
+  flex: 1;
+}
+
+/* Style for the main heading */
+h1 {
+  font-size: 2rem; /* Slightly larger font size */
+  color: #333; /* Dark grey color */
+  text-align: center; /* Center the heading */
+  margin-bottom: 10px; /* Space below the heading */
+}
+
+/* Style for the paragraph elements */
+p {
+  font-size: 1rem; /* Standard font size */
+  color: #666; /* Lighter grey color for text */
+  text-align: center; /* Center the text */
+  margin: 5px 0; /* Vertical spacing between paragraphs */
+}
+
+/* Container for the summary */
+.summary-container {
+  text-align: center; /* Center align content */
+  margin: 20px; /* Space around the container */
+}
